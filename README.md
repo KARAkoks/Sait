@@ -2,7 +2,7 @@
 
 ***Кравченко Дмитрий Витальевич*** 
 
-<img src="https://www.litres.ru/pub/t/67816359.json/i_006.jpg" width="250" height="250">
+<img src="https://www.peoples.ru/art/literature/prose/roman/dmitriy_kravchenko/1O2Xfjf9Q3YgQ.jpeg" width="250" height="350">
 
 <pre>
 
@@ -17,5 +17,4 @@
 Костюм, усы, букет цветов.
 Поправив свой на шее бантик,
 Я вновь к свиданию готов!
-
 <pre>
